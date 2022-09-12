@@ -6,6 +6,8 @@ The interface consists of:
 * Cards CRUD (with Posts)
 * Comments CRUD on cards (with ‘Comments)
 
+User Interface: Double click to edit any information
+
 ---
 
 ![Freeads Homepage](Home.png?raw=true "Freeads Homepage")
@@ -16,7 +18,7 @@ The interface consists of:
 
 * Installation: 
     'cd trello'
-    
+
     ```npm install```
 
     ```npm run dev```
